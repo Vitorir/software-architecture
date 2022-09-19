@@ -6,4 +6,9 @@ public class Fornecedor {
     private String email;
     private String endereco;
 
+
+    public static int calcularFluxo() {
+
+        return 0;
+    }
 }
