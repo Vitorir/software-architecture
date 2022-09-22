@@ -6,7 +6,7 @@ public class Cliente {
     private String msgPromo;
 
     public int Comprar() {
-
+        // decrementa qtd de estoque da loja e printa venda
         return 0;
     }
 }
