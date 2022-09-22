@@ -2,9 +2,9 @@ public class Loja {
     private Fornecedor fornecedor;
     private Produto produto;
 
-    private static int comprar() {
-
-        return 0;
+    public Loja(Fornecedor fornecedor, Produto produto) {
+        this.fornecedor = fornecedor;
+        this.produto = produto;
     }
 
 }
